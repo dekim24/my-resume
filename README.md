@@ -1,1 +1,1 @@
-# my-resume
+This is my professional resume, written in LaTeX. It's based on a public domain template I found many years ago, and have been modifying over time.
